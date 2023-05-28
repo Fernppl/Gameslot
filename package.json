@@ -1,0 +1,24 @@
+{
+  "name": "register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernppl/register.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernppl/register/issues"
+  },
+  "homepage": "https://github.com/Fernppl/register#readme",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
